@@ -5,7 +5,7 @@ export const TranslateThis = () => {
 
   return (
     <>
-      <div>{translation.aboutPara}</div>hey
+      <div>{translation.homePara}</div>hey
     </>
   );
 };
