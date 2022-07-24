@@ -1,4 +1,4 @@
-import { useTranslation } from "../../customHooks/useTranslation";
+import { useTranslation } from "../../hooks/useTranslation";
 
 export const TranslateThis = () => {
   const translation = useTranslation();
