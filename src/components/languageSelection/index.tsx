@@ -7,8 +7,6 @@ export const LanguageSelection = () => {
 
   return (
     <>
-      <Typography>Translate this</Typography>
-
       <Typography>{ctxLanguageSelected}</Typography>
 
       <select
